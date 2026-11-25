@@ -2,6 +2,8 @@
 
 A simple AI agent in plain Python that answers questions about a folder of your own files. It uses [Ollama](https://ollama.com) to run the model locally, so the files, the model, and the conversation stay on your machine. There is no agent framework and no API key.
 
+Read the article: [How to Build Tool-Calling Local AI Agents in Python](https://machinelearningmastery.com/how-to-build-tool-calling-local-ai-agents-in-python/)
+
 ## What it can do
 
 The model chooses from five tools:
